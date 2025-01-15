@@ -47,7 +47,7 @@ rm -f data/raw/*ipaddr* data/processed/user_logs/*ipaddr*
 touch data/inventory.txt 
 ls -R data/processed > data/inventory.txt
 
-
+# written by Mauricio Garcia
 ###########################################
 
 echo "Project setup is complete!"
